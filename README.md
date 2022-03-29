@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Cloud Architect with a foot in geophysics and another for weird physics theories.
+Senior SRE with a foot in geophysics and another for weird physics theories.
 
 <!--
 **nrdufour/nrdufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
